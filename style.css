@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.color-background{
+  background-color: black;
+}
+.first-part-section{
+    display: flex;
+    color: white;
+   
+}
+.first-part-section img{
+    width: 30%;
+}
+.half-part{
+    width: 50%;
+}
+.half-half-width{
+    
+   width: 50%;
+}
+.half-part span{
+    font-size: 35px;
+}
+.profession-background{
+    background-color: gray;
+    width: 40%;
+}
+.second-part-section{
+    display: flex;
+    padding:0px;
+    margin-left:50px;
+}
+.back-color{
+    background-color: gray;
+    margin-left: 25px;
+    width: 17%;
+    padding:30px;
+}
+.text-style{
+    margin-left: 40px;
+}
+.text-spac{
+    margin-bottom: 55px;
+}
+.second-part-section p{
+   margin-left: 70px;
+
+}
+.para-tag-space{
+    margin-left: 100px;
+    padding-left: 0px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 200px;
+    width: 100%;
+}
+footer p,h1{
+    padding-top: 25px;
+}
+.third-part-section{
+    display: flex;
+    margin-top: 70px;
+}
+.third-part-section img{
+width: 90%;
+padding-top: 15px;
+}
+.third-width{
+    width:33%;
+    margin-top:150px;
+    box-shadow:10px 10px 40px gray;
+    padding-left:30px;
+    margin-left: 10px;
+    margin-right: 80px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+}
+
+.achiev{
+    margin-left: 50px;
+}
